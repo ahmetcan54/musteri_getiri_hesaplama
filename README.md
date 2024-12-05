@@ -26,3 +26,5 @@ sex (Cinsiyet):
 
 Müşterinin cinsiyeti (örneğin, kadın, erkek).
 Cinsiyet temelli tüketim alışkanlıklarını analiz ederek, kişiselleştirilmiş pazarlama stratejileri geliştirmek için kullanılır.
+
+Bu değişkenler bir arada kullanılarak, müşteri davranışları ve getirileri üzerine kapsamlı analizler yapılabilir. Özellikle, müşteri segmentasyonu, hedefli pazarlama ve gelir artırma stratejilerinin belirlenmesi için bu veri seti önemli bilgiler sunmaktadır.
